@@ -1,4 +1,7 @@
 # GitHub Teacher Bio
 
 ## Details
-**Favorite Color:** Purple
+
+**Occupation:** Trainer
+
+**Favorite Food:** Milk :octocat:
